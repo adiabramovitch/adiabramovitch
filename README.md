@@ -1,8 +1,6 @@
 
 ## Hi, I'm Adi
 
-A dedicated Software Engineer working at Red Hat in Host Management Services as part of the Launch service.
-
 ### 📫 Contact Me
 
 - [Email](adiabramoitch1995@gmail.com)
